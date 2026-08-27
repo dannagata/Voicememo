@@ -1,0 +1,1 @@
+faster-whisperではCPU上でINT8量子化を利用することができます。
